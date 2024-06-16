@@ -1,0 +1,56 @@
+Header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+     Align-items: right;
+}
+
+Body {
+    Font-family: Arial, sans-serif;
+    Background-color: #f0f0f0;
+    Display: flex;
+    Justify-content: center;
+    Align-items: center;
+    Height: 100vh;
+    Margin: 0;
+}
+
+
+
+.registration-container {
+    Background-color: white;
+    Padding: 20px;
+    Border-radius: 8px;
+    Box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+H2 {
+    Margin-bottom: 20px;
+}
+
+Label {
+    Display: block;
+    Margin-bottom: 5px;
+}
+
+Input {
+    Width: 100%;
+    Padding: 8px;
+    Margin-bottom: 10px;
+    Border: 1px solid #ccc;
+    Border-radius: 4px;
+}
+
+Button {
+    Width: 100%;
+    Padding: 10px;
+    Background-color: #007BFF;
+    Color: white;
+    Border: none;
+    Border-radius: 4px;
+    Cursor: pointer;
+}
+
+Button:hover {
+    Background-color: #0056b3;
+}
